@@ -1,1 +1,4 @@
-#png_to_pdf and pdf_to_png
+Python programlama dili ve tarafımca geliştirilen img2pdf ile pdf2image kütüphaneleri aracılığıyla, çeşitli resim dosyalarını PDF formatına dönüştüren temel bir uygulama geliştirilmiştir. Bu uygulamanın hayata geçirilmesindeki temel motivasyon, çevrimiçi platformlara duyulan güvenlik kaygıları olup, bu sayede kullanıcıların hassas görsel verilerini güvenli bir şekilde PDF formatına dönüştürmelerine olanak tanınmıştır.
+
+
+A basic application has been developed using the Python programming language and the img2pdf and pdf2image libraries, which I personally developed, to convert image files into PDF format. The primary motivation behind creating this application stems from security concerns regarding online tools, thereby enabling users to securely convert their sensitive visual data into PDF format.
